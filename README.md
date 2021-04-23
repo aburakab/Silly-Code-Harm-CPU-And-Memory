@@ -1,4 +1,4 @@
-# Silly-Code-Harm-CPU-And-Memory
+# Harm CPU and Memory By Writing Silly C# Code
 Meetup shows how to Silly Code Harm CPU And Memory
 
 ## Resources
